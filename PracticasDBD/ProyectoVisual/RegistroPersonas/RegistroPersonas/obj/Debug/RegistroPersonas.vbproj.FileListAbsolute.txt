@@ -1,0 +1,111 @@
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\danil\OneDrive\Escritorio\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\Isi11\Desktop\repo\Prueba_DLL_DML\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\Isi11\Desktop\RepositorioPractica\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\danil\OneDrive\Escritorio\repo DBPrueba\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\danil\OneDrive\Escritorio\prueba repo\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.dll
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.xml
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Form1.resources
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.FrmCiudad.resources
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CopyComplete
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\Isi11\Desktop\repo 2\PracticasDBD\ProyectoVisual\RegistroPersonas\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
